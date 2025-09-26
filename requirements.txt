@@ -1,0 +1,8 @@
+requirements
+
+tensorflow
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
